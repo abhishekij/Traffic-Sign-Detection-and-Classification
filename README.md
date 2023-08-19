@@ -15,5 +15,6 @@ Steps to run the code :
    that of the README.md file
 2. Open the code using jupyter notebook.
 3. Run all cells.
+4. other project members:- Aviral Singh,Vivek Verma,Abhinash Kumar Ray,Amit Kumar
 
 
